@@ -66,6 +66,7 @@ I also added the DELETE route to the application using the following guideline:
 ## Project View
 
 ![Note Taker Main Page](<Develop/assets/images/Note Taker Main Page Screenshot.jpg>)
+
 ![Notes List](<Develop/assets/images/Note List Screenshot.jpg>)
 
 ## Contact Information
